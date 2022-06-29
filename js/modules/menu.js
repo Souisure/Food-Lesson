@@ -65,4 +65,4 @@ class MenuItems {
     //     });
 }
 
-module.exports = menu;
+export default {menu};
